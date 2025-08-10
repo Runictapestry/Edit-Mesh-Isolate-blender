@@ -1,6 +1,5 @@
 bl_info = {
     "name": "Mesh Isolate",
-    "url":"https://cults3d.com/en/users/runictapestery47/3d-models",
     "author": "RunicTape",
     "version": (1, 3),
     "blender": (2, 80, 0),
